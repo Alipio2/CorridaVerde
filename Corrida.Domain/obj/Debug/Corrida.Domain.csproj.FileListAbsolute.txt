@@ -1,0 +1,10 @@
+D:\work\CorridaVerde\Corrida.Domain\bin\Debug\Corrida.Domain.dll
+D:\work\CorridaVerde\Corrida.Domain\bin\Debug\Corrida.Domain.pdb
+D:\work\CorridaVerde\Corrida.Domain\obj\Debug\Corrida.Domain.csproj.CoreCompileInputs.cache
+D:\work\CorridaVerde\Corrida.Domain\obj\Debug\Corrida.Domain.dll
+D:\work\CorridaVerde\Corrida.Domain\obj\Debug\Corrida.Domain.pdb
+C:\Work\CorridaVerde\Corrida.Domain\bin\Debug\Corrida.Domain.dll
+C:\Work\CorridaVerde\Corrida.Domain\bin\Debug\Corrida.Domain.pdb
+C:\Work\CorridaVerde\Corrida.Domain\obj\Debug\Corrida.Domain.csproj.CoreCompileInputs.cache
+C:\Work\CorridaVerde\Corrida.Domain\obj\Debug\Corrida.Domain.dll
+C:\Work\CorridaVerde\Corrida.Domain\obj\Debug\Corrida.Domain.pdb

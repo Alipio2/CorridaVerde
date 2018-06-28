@@ -1,0 +1,10 @@
+D:\work\CorridaVerde\Corrida.Shared\bin\Debug\Corrida.Shared.dll
+D:\work\CorridaVerde\Corrida.Shared\bin\Debug\Corrida.Shared.pdb
+D:\work\CorridaVerde\Corrida.Shared\obj\Debug\Corrida.Shared.csproj.CoreCompileInputs.cache
+D:\work\CorridaVerde\Corrida.Shared\obj\Debug\Corrida.Shared.dll
+D:\work\CorridaVerde\Corrida.Shared\obj\Debug\Corrida.Shared.pdb
+C:\Work\CorridaVerde\Corrida.Shared\bin\Debug\Corrida.Shared.dll
+C:\Work\CorridaVerde\Corrida.Shared\bin\Debug\Corrida.Shared.pdb
+C:\Work\CorridaVerde\Corrida.Shared\obj\Debug\Corrida.Shared.csproj.CoreCompileInputs.cache
+C:\Work\CorridaVerde\Corrida.Shared\obj\Debug\Corrida.Shared.dll
+C:\Work\CorridaVerde\Corrida.Shared\obj\Debug\Corrida.Shared.pdb

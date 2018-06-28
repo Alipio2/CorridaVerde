@@ -1,0 +1,17 @@
+D:\work\CorridaVerde\Corrida.Service\bin\Debug\Corrida.Service.dll
+D:\work\CorridaVerde\Corrida.Service\bin\Debug\Corrida.Service.pdb
+D:\work\CorridaVerde\Corrida.Service\bin\Debug\Corrida.Domain.dll
+D:\work\CorridaVerde\Corrida.Service\bin\Debug\Corrida.Domain.pdb
+D:\work\CorridaVerde\Corrida.Service\obj\Debug\Corrida.Service.csprojAssemblyReference.cache
+D:\work\CorridaVerde\Corrida.Service\obj\Debug\Corrida.Service.csproj.CoreCompileInputs.cache
+D:\work\CorridaVerde\Corrida.Service\obj\Debug\Corrida.Service.csproj.CopyComplete
+D:\work\CorridaVerde\Corrida.Service\obj\Debug\Corrida.Service.dll
+D:\work\CorridaVerde\Corrida.Service\obj\Debug\Corrida.Service.pdb
+C:\Work\CorridaVerde\Corrida.Service\bin\Debug\Corrida.Service.dll
+C:\Work\CorridaVerde\Corrida.Service\bin\Debug\Corrida.Service.pdb
+C:\Work\CorridaVerde\Corrida.Service\bin\Debug\Corrida.Domain.dll
+C:\Work\CorridaVerde\Corrida.Service\bin\Debug\Corrida.Domain.pdb
+C:\Work\CorridaVerde\Corrida.Service\obj\Debug\Corrida.Service.csprojResolveAssemblyReference.cache
+C:\Work\CorridaVerde\Corrida.Service\obj\Debug\Corrida.Service.csproj.CoreCompileInputs.cache
+C:\Work\CorridaVerde\Corrida.Service\obj\Debug\Corrida.Service.dll
+C:\Work\CorridaVerde\Corrida.Service\obj\Debug\Corrida.Service.pdb

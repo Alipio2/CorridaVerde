@@ -1,0 +1,17 @@
+D:\work\CorridaVerde\Corrida.Infra\bin\Debug\Corrida.Infra.dll
+D:\work\CorridaVerde\Corrida.Infra\bin\Debug\Corrida.Infra.pdb
+D:\work\CorridaVerde\Corrida.Infra\bin\Debug\Corrida.Domain.dll
+D:\work\CorridaVerde\Corrida.Infra\bin\Debug\Corrida.Domain.pdb
+D:\work\CorridaVerde\Corrida.Infra\obj\Debug\Corrida.Infra.csprojAssemblyReference.cache
+D:\work\CorridaVerde\Corrida.Infra\obj\Debug\Corrida.Infra.csproj.CoreCompileInputs.cache
+D:\work\CorridaVerde\Corrida.Infra\obj\Debug\Corrida.Infra.csproj.CopyComplete
+D:\work\CorridaVerde\Corrida.Infra\obj\Debug\Corrida.Infra.dll
+D:\work\CorridaVerde\Corrida.Infra\obj\Debug\Corrida.Infra.pdb
+C:\Work\CorridaVerde\Corrida.Infra\bin\Debug\Corrida.Infra.dll
+C:\Work\CorridaVerde\Corrida.Infra\bin\Debug\Corrida.Infra.pdb
+C:\Work\CorridaVerde\Corrida.Infra\bin\Debug\Corrida.Domain.dll
+C:\Work\CorridaVerde\Corrida.Infra\bin\Debug\Corrida.Domain.pdb
+C:\Work\CorridaVerde\Corrida.Infra\obj\Debug\Corrida.Infra.csprojResolveAssemblyReference.cache
+C:\Work\CorridaVerde\Corrida.Infra\obj\Debug\Corrida.Infra.csproj.CoreCompileInputs.cache
+C:\Work\CorridaVerde\Corrida.Infra\obj\Debug\Corrida.Infra.dll
+C:\Work\CorridaVerde\Corrida.Infra\obj\Debug\Corrida.Infra.pdb
