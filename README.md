@@ -1,2 +1,2 @@
 # CorridaVerde
-Api para cadastra Participante para uma corrida.
+Api, em Dot Net 4.5 framework full, para cadastra Participante para uma corrida.
