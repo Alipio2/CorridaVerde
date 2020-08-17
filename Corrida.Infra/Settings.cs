@@ -2,6 +2,6 @@
 {
     public static class Settings
     {
-        public static string ConnectionStringAlp = Server=srvbatman.database.windows.net,1433;Database=BatmanBd;User ID=alipio;Password=2
+        public static string ConnectionStringAlp = Server=srvbatman.database.windows.net,1433;Database=BatmanBd;User ID=alipio;Password=22
     }
 }
